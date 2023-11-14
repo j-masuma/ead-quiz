@@ -2,7 +2,7 @@ import React from 'react'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import tech from '../assets/images/tech.jpg';
-function Discover() {
+export function Discover() {
   return (
     <div className='container p-4 mb-4'>
         <div className='row d-flex align-item-center justify-content-between'>
@@ -134,4 +134,3 @@ function Discover() {
 }
 
 
-export default Discover;

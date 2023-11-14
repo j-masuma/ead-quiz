@@ -7,7 +7,7 @@ import Projects from './components/Projects';
 
 import Footer from './components/Footer';
 
-import Discover from './components/Discover';
+import {Discover} from './components/Discover';
 
 function App() {
   return (
